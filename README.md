@@ -1,2 +1,2 @@
 # Chatting-Room
-Similar function QQ
+QQ聊天室
