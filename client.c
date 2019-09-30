@@ -189,28 +189,28 @@ void InterFrame()
     }  
     else  
     {  
-			frame();
-			printf("\t\tDear Ordinary User: %s			     \n", Name);
-			printf("\t\tPersonality signature: %s	 \n", RecvBuf.moto);
-			printf("\t\tlike: %d 							\n", LIKES);
-			printf("\t\tWelcome to Chatroom  \n\n"); 
-			printf("\t\t 1. Private chat				\n");
-			printf("\t\t 2. Group chat				    \n");
-			printf("\t\t 3. View online number		    \n");
-			printf("\t\t 4. Thumbs-up 				    \n");
-			printf("\t\t 5. Change signature		    \n");
-			printf("\t\t 6. Change password			    \n");
-			printf("\t\t 7. Group expression		    \n");
-			printf("\t\t 8. unlike                      \n");
-			printf("\t\t 9. View chat logs 			    \n");
-			printf("\t\t10. Registered VIP			    \n");
-			printf("\t\t11. kicking(VIP)			    \n");
-			printf("\t\t12. Prohibit speaking(VIP)	    \n");
-			printf("\t\t13. Relieve(VIP)			    \n");
-			printf("\t\t14. Downline				    \n\n");
-			printf("\t\t please make you choice \n\n");
-			frame();
-		}  
+	frame();
+	printf("\t\tDear Ordinary User: %s			     \n", Name);
+	printf("\t\tPersonality signature: %s	 		     \n", RecvBuf.moto);
+	printf("\t\tlike: %d 					     \n", LIKES);
+	printf("\t\tWelcome to Chatroom  			     \n\n"); 
+	printf("\t\t 1. Private chat				     \n");
+	printf("\t\t 2. Group chat				     \n");
+	printf("\t\t 3. View online number		             \n");
+	printf("\t\t 4. Thumbs-up 				     \n");
+	printf("\t\t 5. Change signature		             \n");
+	printf("\t\t 6. Change password			             \n");
+	printf("\t\t 7. Group expression		             \n");
+	printf("\t\t 8. unlike                                       \n");
+	printf("\t\t 9. View chat logs 			             \n");
+	printf("\t\t10. Registered VIP			             \n");
+	printf("\t\t11. kicking(VIP)			             \n");
+	printf("\t\t12. Prohibit speaking(VIP)	                     \n");
+	printf("\t\t13. Relieve(VIP)			             \n");
+	printf("\t\t14. Downline				     \n\n");
+	printf("\t\t please make you choice \n\n");
+	frame();
+    }  
 
     
 }
